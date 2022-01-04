@@ -1,4 +1,4 @@
-Fork from https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
+Inspired from https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
 
 ## Changes
 1. Migrated from TF1.x to compat.v1 API symbols via `tf_upgrade_v2`
